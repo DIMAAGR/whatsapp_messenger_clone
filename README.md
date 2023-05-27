@@ -16,3 +16,4 @@ Algumas coisas utilizadas nesse projeto:
 - Flutter Modular
 - Arquitetura MVC (não usei clean arch por acreditar que por ser um projeto relativamente pequeno, não faria sentido).
 - MobX (tenho outros projetos usando outras arquiteturas como GetX)
+- Icons Launcher (para adicionar os icones)
