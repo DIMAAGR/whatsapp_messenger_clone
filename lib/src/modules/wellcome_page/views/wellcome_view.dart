@@ -7,6 +7,9 @@ class WellcomeView extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return Scaffold();
+    return  Scaffold(
+      appBar: AppBar(title: const Text('Example')),
+      body: const Center(child: Text('DEMO')),
+    );
   }
 }
